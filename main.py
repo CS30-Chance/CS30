@@ -1,4 +1,8 @@
 print('hello world')
-def test (messsage:str):
-  print(message)
-  
+
+
+def test(message: str):
+    print(message)
+
+
+test(input('string: '))
