@@ -6,3 +6,5 @@ def test(message: str):
 
 
 test(input('string: '))
+
+# test
