@@ -2,7 +2,7 @@ print('hello world')
 
 
 def test(message: str):
-    print(message)
+    print('--->', message)
 
 
 test(input('string: '))
